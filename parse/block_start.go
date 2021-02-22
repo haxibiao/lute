@@ -27,7 +27,6 @@ func blockStarts() []blockStartFunc {
 		ThematicBreakStart,
 		ListStart,
 		MathBlockStart,
-		IndentCodeBlockStart,
 		FootnotesStart,
 		IALStart,
 		BlockEmbedStart,
